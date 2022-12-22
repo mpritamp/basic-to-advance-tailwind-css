@@ -1,5 +1,5 @@
-![](tutorial/01 Introduction/Intro Banner.png)
-![](tutorial/01 Introduction/Pure LearnerChannel Art.png)
+![](https://raw.githubusercontent.com/mpritamp/basic-to-advance-tailwind-css/main/tutorial/01%20Introduction/Intro%20Banner.png)
+![](https://raw.githubusercontent.com/mpritamp/basic-to-advance-tailwind-css/main/tutorial/01%20Introduction/Pure%20LearnerChannel%20Art.png)
 # For Video Lecture Visit [Youtube](https://www.youtube.com/@purelearner/) Channel
 
 Welcome to our course on Tailwind CSS! In this course, you'll learn everything you need to know to start using this powerful utility-first CSS framework in your projects.

@@ -1,5 +1,5 @@
-![](Intro Banner.png)
-![](Pure LearnerChannel Art.png)
+![](https://raw.githubusercontent.com/mpritamp/basic-to-advance-tailwind-css/main/tutorial/01%20Introduction/Intro%20Banner.png)
+![](https://raw.githubusercontent.com/mpritamp/basic-to-advance-tailwind-css/main/tutorial/01%20Introduction/Pure%20LearnerChannel%20Art.png)
 Welcome to our course on Tailwind CSS! In this course, you'll learn everything you need to know to start using this powerful utility-first CSS framework in your projects.
 
 We'll start by introducing you to the basic concepts of Tailwind CSS and showing you how to set up a project and configure the styles. From there, we'll dive into the core features of the framework, including utility classes for styling text, colors, backgrounds, margins, padding, and borders.
