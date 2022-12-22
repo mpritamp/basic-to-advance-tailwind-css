@@ -1,34 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![](tutorial/01 Introduction/Intro Banner.png)
+![](tutorial/01 Introduction/Pure LearnerChannel Art.png)
+# For Video Lecture Visit [Youtube](https://www.youtube.com/@purelearner/) Channel
 
-## Getting Started
+Welcome to our course on Tailwind CSS! In this course, you'll learn everything you need to know to start using this powerful utility-first CSS framework in your projects.
 
-First, run the development server:
+We'll start by introducing you to the basic concepts of Tailwind CSS and showing you how to set up a project and configure the styles. From there, we'll dive into the core features of the framework, including utility classes for styling text, colors, backgrounds, margins, padding, and borders.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+As you progress through the course, you'll learn how to customize the styles with custom classes, responsive variations, and variants for hover, focus, and active states. You'll also explore advanced techniques like creating custom utility classes and using the @apply directive to reuse styles across multiple elements.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Throughout the course, you'll have the opportunity to practice your skills by building real-world projects and experimenting with different features and techniques. By the end, you'll have a solid understanding of how to use Tailwind CSS to build custom user interfaces quickly and efficiently.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+So join us today and start your journey to becoming a Tailwind CSS expert!
